@@ -20,11 +20,21 @@ A production-ready e-commerce REST API built with Golang and PostgreSQL. This pr
 
 ## 🛠️ Tech Stack
 
-- **Language**: Go 1.25
-- **Router**: Chi Router v5
-- **Database**: PostgreSQL 16
-- **DB Driver**: pgx/v5
-- **Containerization**: Docker & Docker Compose
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" height="60" alt="Go" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
+  </p>
+
+- **Language**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20" /> Go 1.25
+- **Router**: 🌐 Chi Router v5
+- **Database**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" /> PostgreSQL 16
+- **DB Driver**: 🔌 pgx/v5
+- **Code Generation**: ⚙️ sqlc
+- **Migrations**: 🦆 goose
+- **Containerization**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" /> Docker & Docker Compose
 
 ## 🚀 Getting Started
 
